@@ -21,15 +21,15 @@ This is a web based application developed for a restaurant named PARADISE.
 
 ## Screenshots 📸
 ### Home page -   
-![](img/ss_home.png)
+![](ss_home.png)
 ### Team page -
-![](img/ss_team.png)
+![](ss_team.png)
 ### Contact page -
-![](img/ss_contact.png)
+![](ss_contact.png)
 ### Menu Page -
-![](img/ss_menu.png)
+![](ss_menu.png)
 ### About Us Page -
-![](img/ss_about.png)
+![](ss_about.png)
 
 ## Tech Stack 💻
 
